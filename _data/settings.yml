@@ -8,15 +8,14 @@ author:
 description: BWP的官方網站
 email: support@bwp.wiki
 phone: +852 6737 6231
-address: Hong Kong, PRC
+#address: Hong Kong, PRC
 copyright: Copyright &copy; 2022 Brand With Pedia
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: 關於我們, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
-  - { name: Rules, link: "/rules" }
+  - { name: 聯絡我們, link: "/contact" }
+  - { name: 相關規則, link: "/rules" }
 
 #-------------------------------
 # Google Analytics Section
@@ -37,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 嗨！ <br> 歡迎訪問 <br> BWP的專題頁面！
+  hero-title: 嗨！ <br> 歡迎訪問 <br> Brand with Pedia
 
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/profile.php?id=100084190462650" }
@@ -92,31 +91,31 @@ skills:
   - { name: 擴充已有但品質不佳條目, color: "#fdb157", value: "25%" }
   - { name: 對於新興且具有影響力的品牌撰寫條目, color: "#9473e6", value: "25%" }
   - { name: 翻譯其他語言中質量優良的品牌條目, color: "#bdecf6", value: "25%" }
-  - { name: 更多，期待你的參與..., color: "#ffbcaa", value: "25%" }
+  - { name: 更多，期待你的參與..., color: "#ffbcaa", value: "100%" }
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
-experience:
-  - {
-      name: 暫無,
-      icon: "icon-1.png",
-      date: "沒有數據（",
-      organization: "沒有數據（",
-    }
-  - {
-      name: 暫無,
-      icon: "icon-2.png",
-      date: "沒有數據（",
-      organization: "沒有數據（",
-    }
-  - {
-      name: 暫無,
-      icon: "icon-3.png",
-      date: "沒有數據（",
-      organization: "沒有數據（",
-    }
+#experience-title: Experience
+#experience:
+#  - {
+#      name: 暫無,
+#      icon: "icon-1.png",
+#      date: "沒有數據（",
+#      organization: "沒有數據（",
+#    }
+#  - {
+#      name: 暫無,
+#      icon: "icon-2.png",
+#      date: "沒有數據（",
+#      organization: "沒有數據（",
+#    }
+#  - {
+#      name: 暫無,
+#      icon: "icon-3.png",
+#      date: "沒有數據（",
+#     organization: "沒有數據（",
+#    }
 
 #-------------------------------
 # Education Section
