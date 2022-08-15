@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2022 Brand With Pedia
 
 menu:
   - { name: 關於我們, link: "/about" }
-  - { name: Blog, link: "/blog" }
+  - { name: 部落格, link: "/blog" }
   - { name: 聯絡我們, link: "/contact" }
   - { name: 相關規則, link: "/rules" }
 
