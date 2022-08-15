@@ -1,3 +1,2 @@
-# Brand-with-Pediaz主页
-
-基于Kross Jekyll二次开发，维护者萌小志
+# Brand-with-Pedia主頁
+基於Kross Jekyll二次開發，維護者萌小志及Coffee18 Cool
