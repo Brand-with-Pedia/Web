@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About us
+title: 關於我們
 author: Brand with Pedia
 image: assets/images/favicon.png
 signature: assets/images/BWP-FZ.png

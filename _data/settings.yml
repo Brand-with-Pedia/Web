@@ -12,9 +12,9 @@ phone: +852 6737 6231
 copyright: Copyright &copy; 2022 Brand With Pedia
 
 menu:
-  - { name: 關於我們, link: "/about" }
   - { name: 部落格, link: "/blog" }
-  - { name: 聯絡我們, link: "/contact" }
+  - { name: 關於我們, link: "/about" }
+#  - { name: 聯絡我們, link: "/contact" }
   - { name: 相關規則, link: "/rules" }
 
 #-------------------------------
@@ -51,7 +51,7 @@ social:
 blurb: 我們致力於對所有大型中文百科的公司類條目進行擴充，如果各司有興趣可以向我們分享貴司的逸聞及相關參考來源，我們在評估後會給予答復是否對貴司提供的內容進行修訂，聯繫方式位於頁面底部。同時我們也歡迎各位同好加入我們的專題。聯絡方式如下：join@bwp.wiki，當然你也可以在部分百科的專題頁直接參與
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: 得知更多我們的資訊
 
 # About Page
 
@@ -86,7 +86,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: What we do?
+skills-title: 我們在做什麼？
 skills:
   - { name: 擴充已有但品質不佳條目, color: "#fdb157", value: "25%" }
   - { name: 對於新興且具有影響力的品牌撰寫條目, color: "#9473e6", value: "25%" }
@@ -299,5 +299,5 @@ skills:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info（請勿反復發送）
+contact-title: 聯絡我們
 contact-email: f/xqkjkpdl
