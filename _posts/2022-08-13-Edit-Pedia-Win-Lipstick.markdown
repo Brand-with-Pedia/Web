@@ -16,6 +16,8 @@ tags:   Chrome Version 104.0.5112.81, Windows 11 Pro for Workstations
 
 活動起止時間（格林尼治標準時間）：2022年8月31日 17:00 至 2022年9月30日 17:00
 
+活動平台：[中文維基百科](https://zh.wikipedia.org/wiki/%E9%A6%99%E5%A5%88%E5%84%BF "香奈兒 - 維基百科")
+
 
 
 
